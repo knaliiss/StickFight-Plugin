@@ -1,0 +1,19 @@
+name: StickFight
+version: 1.0-SNAPSHOT
+main: org.knalis.stickfightplugin.Game.StickFightPlugin
+api-version: 1.12
+commands:
+  test:
+    description: A test command
+  gamestart:
+    description: Starts the game
+  gamestop:
+    description: Stops the game
+  lobby:
+    description: Teleports to the lobby
+  getdir:
+    description: Gets the world directory
+  isrun:
+    description: Checks if the game is running
+  buyback:
+    description: opens the buyback menu

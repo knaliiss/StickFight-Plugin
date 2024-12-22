@@ -1,0 +1,3 @@
+name: StickFight Plugin
+version: '1.0-SNAPSHOT'
+main: org.knalis.stickfightplugin.StickFightPlugin
